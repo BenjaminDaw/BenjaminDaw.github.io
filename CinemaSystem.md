@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title:Cinema System
 ---
 # 电影院管理系统
 
